@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+.aboba{
+    background-color:aquamarine;
+    font-size:large;padding:10px;
+}
+
+.bebra{
+   color:blueviolet; 
+}
+footer p{
+    background-color:chartreuse;
+}
+
+.kalofduty{
+    border:3px solid blue;
+    border-radius:20px;
+    padding: 5px;
+}
+
+.ass{
+    border:3px solid blue;
+    border-radius:20px;
+    background-color:gold;
+    padding: 5px;
+}
+
+
+
+.ass4{
+    background-color: brown;
+    border:3px solid blue;
+    border-radius:20px;font-size:30px;
+}
+
+.bebrus{
+    color:blue
+}
+
+h2{
+    text-align: center;
+}
